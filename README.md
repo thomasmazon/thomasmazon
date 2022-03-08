@@ -7,27 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/thomasmazon" target="blank"><img src="https://img.shields.io/twitter/follow/thomasmazon?logo=twitter&style=for-the-badge" alt="thomasmazon" /></a> </p>
 
-- 🔭 I’m currently working on [ADAMOS Marketplace](https://www.adamos.com/en/)
-
-- 🌱 I’m currently learning **performance testing and Gatling**
-
-- 👯 I’m contributing to the the open-source community via [Selenideium Element Inspector](https://thomasmazon.com/selenium-javascript-python-c-cypress-testcafe-playwright-squish-selector-generation-has-been-added-to-selenideium-element-inspector-v20)
-
-- 🤝And also with test automation frameworks [Selenium, Appium, RestAssured, Protractor](https://github.com/thomasmazon)
 
 - 👨‍💻 All of my projects are available at [https://github.com/thomasmazon](https://github.com/thomasmazon)
 
-- 📝 I regularly write articles on [https://thomasmazon.com](https://thomasmazon.com)
-
-- 💬 Ask me about **test automation, Selenide, Selenium, Karate DSL**
-
-- 📫 How to reach me **miklos.szeles@gmail.com**
+- 📫 How to reach me **thomas.mazon@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/thomasmazon/](https://www.linkedin.com/in/thomasmazon/)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
